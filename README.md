@@ -1,4 +1,4 @@
-﻿# chat_app_react
+﻿# chat-app-react
 
 # Real-Time Chat Application
 
